@@ -3,9 +3,17 @@ package org.howard.edu.lsp.assignment4.test;
 
 import java.util.*;
 import org.howard.edu.lsp.assignment4.implementation.*;
-
+/**
+ * Tests the functionality of my code.
+ * @author tonioshikanlu
+ *
+ */
 public class Test {
-
+	/**
+	 * Main function driving my code.
+	 * @param args
+	 * @throws IntegerSetException
+	 */
    public static void main(String[] args) throws IntegerSetException {
       
 ArrayList<Integer> list1= new ArrayList<>();
